@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "CV"
 ---
 
-About this site
+You can find my CV here: [CV](https://www.dropbox.com/scl/fi/r385xhkvoga8s7qcn75kf/chunyi.pdf?rlkey=tlefigf50tcm2rjhg4mhvtc9n&st=ycnhbaz8&dl=0)
 
 ```{r}
-1 + 1
+
 ```
